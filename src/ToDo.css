@@ -1,0 +1,22 @@
+
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: antiquewhite;
+  }
+  
+  .button_style {
+    margin-left: 10px !important;
+    margin-right: 10px;
+
+  }
+  
+  .centerTable {
+    margin: 0px auto;
+  }
+  
+  h2 {
+      color: #e62011;
+  }
